@@ -11,7 +11,7 @@
 ![Screenshot (329)](https://user-images.githubusercontent.com/92587188/178377581-f0cac0a2-14a6-40ff-a882-8b1e8d33a70a.png)
 ![Screenshot (331)](https://user-images.githubusercontent.com/92587188/178377975-67830f22-9dbc-4ae5-b8af-ac23fc5a2848.png)
 
-##----------------------------------------------------------------------------
+## ----------------------------------------------------------------------------
 
 ## How To Play >> First Game person , Use your WASD keys to navigate through the map , Your Mouse to rotate , Hold  (LEFT CLICK) key to hold an object and release the key to unhold it .
 
