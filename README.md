@@ -2,7 +2,7 @@
 
 ## First Person Game Made with c++ and blueprints using Unreal Engine.
 
-## Game Description >> You Have Found an catacomb that contains a treasue in it .Your Task is to extract that treasue and take it. Ofcourse its not an easy task . Solve the mystery and the tresure is yours. This is your objective , find it and take it to the starting point. There are two of it all over the map . Anything that can be grabbed is useful so use it wisely.
+## Game Description >> You Have Found a catacomb that contains a treasue in it .Your Task is to extract that treasue and take it. Ofcourse its not an easy task . Solve the mystery and the tresure is yours. This is your objective , find it and take it to the starting point. There are two of it all over the map . Anything that can be grabbed is useful so use it wisely.
 ![Treasure](https://user-images.githubusercontent.com/92587188/178377488-fa6bdd62-52a2-48a8-9896-459aeb0206c1.JPG)
 
 ## In_Game Images
